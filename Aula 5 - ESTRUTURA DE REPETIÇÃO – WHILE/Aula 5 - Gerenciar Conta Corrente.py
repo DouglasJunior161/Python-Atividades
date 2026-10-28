@@ -1,8 +1,7 @@
 # Desenvolva um programa em Python para gerenciar uma conta corrente com um saldo inicial de R$1000,00. O programa deve apresentar um menu com as seguintes opções:
 
 # Mostrar Saldo: Exibe o saldo atual da conta.
-# 1 - Mostrar Saldo: Exibe o saldo atual da conta.
-# 2 - Sacar: Permite ao usuário sacar um valor da conta, desde que haja saldo suficiente. Exibe o saldo atualizado (se não for possível sacar, irá aprsentar o saldo atual sem alteração de value).
+# 1 - Sacar: Permite ao usuário sacar um valor da conta, desde que haja saldo suficiente. Exibe o saldo atualizado (se não for possível sacar, irá aprsentar o saldo atual sem alteração de value).
 # 3 - Depositar: Permite ao usuário depositar um valor na conta. Exibe o saldo atualizado.
 # 4 - Sair: Encerra o programa.
 # Controle de Fluxo:
